@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Colors -->
+    <color name="primaryColor">#3498db</color> <!-- Blue -->
+    <color name="secondaryColor">#2ecc71</color> <!-- Green -->
+
+    <!-- Background Colors -->
+    <color name="lightBackground">#ecf0f1</color> <!-- Light Gray -->
+    <color name="darkBackground">#2c3e50</color> <!-- Dark Gray -->
+
+    <!-- Text Colors -->
+    <color name="primaryText">#2c3e50</color> <!-- Dark Gray -->
+    <color name="secondaryText">#95a5a6</color> <!-- Gray -->
+    <color name="accentText">#e74c3c</color> <!-- Red -->
+
+    <!-- Button Colors -->
+    <color name="buttonPrimary">#3498db</color> <!-- Blue -->
+    <color name="buttonSecondary">#95a5a6</color> <!-- Gray -->
+    <color name="buttonHover">#2980b9</color> <!-- Darker Blue -->
+
+    <!-- Status Colors -->
+    <color name="success">#2ecc71</color> <!-- Green -->
+    <color name="warning">#f39c12</color> <!-- Yellow -->
+    <color name="error">#e74c3c</color> <!-- Red -->
+
+    <!-- Accent Colors -->
+    <color name="accentColor1">#9b59b6</color> <!-- Purple -->
+    <color name="accentColor2">#f1c40f</color> <!-- Gold -->
+</resources>
